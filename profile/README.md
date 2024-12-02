@@ -8,5 +8,5 @@ We are a indie Software Development group formed by a small group of friends loc
 - Paste: Easy way to upload & share code inside of Discord, Intellij, VSCode etc.
 
 
-Check out our Website: [asterix.sh](https://asterix.sh/)
+Check out our website: [asterix.sh](https://asterix.sh/)
 
