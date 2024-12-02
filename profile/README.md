@@ -5,7 +5,7 @@ We are a indie Software Development group formed by a small group of friends loc
 
 ## Current Projects
 - Fishnet: The best way to do audience research & develop project ideas.
-- Rev: A Social Media for Car Enthusiasts
+- Paste: Easy way to upload & share code inside of Discord, Intellij, VSCode etc.
 
 
 Check out our Website: [asterix.sh](https://asterix.sh/)
